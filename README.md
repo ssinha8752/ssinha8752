@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hey there, I'm Shubham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Shubham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
@@ -8,15 +8,16 @@
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms & NFT**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://ssinha8752.github.io/Shubham/)**
 
-- 📫 How to reach me **shubhamsinha8752@yahoo.com**
+- 📫 How to reach me at <a href = "https://www.linkedin.com/in/shubham-sinha-09b1ab127/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+
+- ⚡ Fun fact **The logo of mozilla firefox is actually a red panda.**
 
 ## 🚀 Languages and Tools:
 
@@ -61,7 +62,7 @@
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/ssinha8752/github-readme-activity-graph"><img alt="Shubham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ssinha8752&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/ssinha8752/github-readme-activity-graph"><img alt="Shubham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ssinha8752&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -76,8 +77,8 @@
 
 </p>
 
-<!-- ## ❤ Views and Followers
+## ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=ssinha8752">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<!-- <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
